@@ -1,0 +1,17 @@
+D:\Sercret\GuildAppBot\GuildAppBot\bin\Debug\netcoreapp1.1\GuildAppBot.deps.json
+D:\Sercret\GuildAppBot\GuildAppBot\bin\Debug\netcoreapp1.1\GuildAppBot.runtimeconfig.json
+D:\Sercret\GuildAppBot\GuildAppBot\bin\Debug\netcoreapp1.1\GuildAppBot.runtimeconfig.dev.json
+D:\Sercret\GuildAppBot\GuildAppBot\bin\Debug\netcoreapp1.1\GuildAppBot.dll
+D:\Sercret\GuildAppBot\GuildAppBot\obj\Debug\netcoreapp1.1\GuildAppBot.csprojResolveAssemblyReference.cache
+D:\Sercret\GuildAppBot\GuildAppBot\obj\Debug\netcoreapp1.1\GuildAppBot.csproj.CoreCompileInputs.cache
+D:\Sercret\GuildAppBot\GuildAppBot\obj\Debug\netcoreapp1.1\GuildAppBot.AssemblyInfo.cs
+D:\Sercret\Guild_App_Bot\GuildAppBot\bin\Debug\netcoreapp1.1\GuildAppBot.deps.json
+D:\Sercret\Guild_App_Bot\GuildAppBot\bin\Debug\netcoreapp1.1\GuildAppBot.runtimeconfig.json
+D:\Sercret\Guild_App_Bot\GuildAppBot\bin\Debug\netcoreapp1.1\GuildAppBot.runtimeconfig.dev.json
+D:\Sercret\Guild_App_Bot\GuildAppBot\bin\Debug\netcoreapp1.1\GuildAppBot.dll
+D:\Sercret\Guild_App_Bot\GuildAppBot\bin\Debug\netcoreapp1.1\GuildAppBot.pdb
+D:\Sercret\Guild_App_Bot\GuildAppBot\obj\Debug\netcoreapp1.1\GuildAppBot.csprojResolveAssemblyReference.cache
+D:\Sercret\Guild_App_Bot\GuildAppBot\obj\Debug\netcoreapp1.1\GuildAppBot.csproj.CoreCompileInputs.cache
+D:\Sercret\Guild_App_Bot\GuildAppBot\obj\Debug\netcoreapp1.1\GuildAppBot.AssemblyInfo.cs
+D:\Sercret\Guild_App_Bot\GuildAppBot\obj\Debug\netcoreapp1.1\GuildAppBot.dll
+D:\Sercret\Guild_App_Bot\GuildAppBot\obj\Debug\netcoreapp1.1\GuildAppBot.pdb
